@@ -1,6 +1,6 @@
 {
     "name": "ptwitter",
-    "version": "v0.0.1",
+    "version": "v0.0.2",
     "description": "Twitter API client with proxy support",
     "keywords": [
         "twitter",
@@ -20,7 +20,7 @@
         "url": "https://github.com/johanpoirier/node-twitter"
     },
     "dependencies": {
-        "oauth": ">=0.8.4",
+        "oauth-tunnel": ">=0.0.4",
         "cookies": ">=0.1.6",
         "keygrip": ">=0.1.7"
     },
