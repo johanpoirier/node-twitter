@@ -1,23 +1,23 @@
 {
-    "name": "twitter",
-    "version": "v0.2.5",
-    "description": "Twitter API client library for node.js",
+    "name": "ptwitter",
+    "version": "v0.0.1",
+    "description": "Twitter API client with proxy support",
     "keywords": [
         "twitter",
         "streaming",
         "oauth"
     ],
-    "homepage": "https://github.com/desmondmorris/node-twitter",
-    "author": "jdub, changes by desmondmorris",
+    "homepage": "https://github.com/johanpoirier/node-twitter",
+    "author": "jdub, changes by desmondmorris & johanpoirier",
     "licenses": [
         {
             "type": "MIT",
-            "url": "http://github.com/desmondmorris/node-twitter/raw/master/LICENSE"
+            "url": "http://github.com/johanpoirier/node-twitter/raw/master/LICENSE"
         }
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/desmondmorris/node-twitter"
+        "url": "https://github.com/johanpoirier/node-twitter"
     },
     "dependencies": {
         "oauth": ">=0.8.4",
