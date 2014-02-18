@@ -1,6 +1,6 @@
 {
     "name": "ptwitter",
-    "version": "v0.0.2",
+    "version": "v0.0.3",
     "description": "Twitter API client with proxy support",
     "keywords": [
         "twitter",
